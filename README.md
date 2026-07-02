@@ -44,7 +44,7 @@ Durante a criação deste guia, fiz testes no NotebookLM para ver como ele reagi
 Com base nas fontes, aprendi que engenharia de prompt é simplesmente a arte de dar boas instruções. Se uma pessoa não entenderia o seu pedido, a IA também não vai entender (essa é a Regra de Ouro).
 
 Para não errar mais, anotei essas três dicas principais:
-* **Siga o método PROMPT:** Defina a **P**ersona (quem a IA deve ser), o **R**oteiro da tarefa, o **O**bjetivo, o **M**odelo de saída (lista, tabela), o **P**anorama (o contexto) e peça para **T**ransformar se não ficar bom.
+* **Siga o método PROMPT:** Defina a **Persona** (quem a IA deve ser), o **Roteiro** da tarefa, o **Objetivo**, o **Modelo** de saída (lista, tabela), o **Panorama** (o contexto) e peça para **Transformar** se não ficar bom.
 * **Inversão de papéis:** Uma dica muito legal é pedir para a IA te fazer perguntas antes de ela começar o trabalho, para garantir que ela tem todas as informações que precisa.
 * **Corte a criatividade quando necessário:** Para evitar informações falsas, sempre escreva no comando: *"Se você não souber a resposta, apenas diga que não sabe, não invente"*.
 
