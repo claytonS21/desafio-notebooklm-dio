@@ -2,6 +2,8 @@
 
 Repositório criado para o desafio prático da DIO, com o objetivo de usar a Inteligência Artificial (NotebookLM) como uma ferramenta para acelerar e melhorar os estudos.
 
+🔗 **Acesse o meu Caderno no NotebookLM:** [Clique aqui para acessar]((https://notebooklm.google.com/notebook/861a65e9-cfb1-4fd7-ae7b-1230feedea97?authuser=1))
+
 ---
 
 ## 🎯 Contexto e Objetivos
